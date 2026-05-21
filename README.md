@@ -78,7 +78,7 @@ We retain information only as long as necessary to provide the App and fulfill t
 
 - Page content (posts, comments) retained while your Page is connected to the App
 - Account information retained while your account is active
-- Log data retained for up to [N] days
+- Log data retained for up to 365 days
 - Information may be retained longer to comply with legal obligations or resolve disputes
 
 You may request earlier deletion as described in Section 6.
